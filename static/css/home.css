@@ -26,8 +26,9 @@ h2{
 }
 
 #applist{
-    width: 100%;
-     margin-top: 20px;
+    width: 80%;
+    margin:0 auto;
+    margin-top: 20px;
 }
 #applist a {
     color: #ff3366;
